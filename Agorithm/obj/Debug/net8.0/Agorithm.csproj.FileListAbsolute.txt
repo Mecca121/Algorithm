@@ -1,0 +1,14 @@
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\bin\Debug\net8.0\Agorithm.exe
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\bin\Debug\net8.0\Agorithm.deps.json
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\bin\Debug\net8.0\Agorithm.runtimeconfig.json
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\bin\Debug\net8.0\Agorithm.dll
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\bin\Debug\net8.0\Agorithm.pdb
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.AssemblyInfoInputs.cache
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.AssemblyInfo.cs
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.csproj.CoreCompileInputs.cache
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.dll
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\refint\Agorithm.dll
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.pdb
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.genruntimeconfig.cache
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\ref\Agorithm.dll
