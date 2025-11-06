@@ -18,6 +18,5 @@ internal class Class4
         else return false;
     }
     
-        
 }
 

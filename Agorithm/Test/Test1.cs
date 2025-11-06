@@ -8,11 +8,11 @@
 //{
 //    internal class Test1
 //    {
-//       public static int IndexOf(string str) 
+//        public static int IndexOf(string str)
 //        {
-//            if ( str != null )
+//            if (str != null)
 //            {
-//            int index = str.IndexOf("b");
+//                int index = str.IndexOf("b");
+//            }
 //        }
 //    }
-//}

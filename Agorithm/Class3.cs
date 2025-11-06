@@ -24,7 +24,7 @@
 //                if (a != null && a <= str.Length)
 //                {
 //                    Console.Write($"The character at index {a} is: ");
-//                    return [];
+//                    return [a];
 //                }
 //                else
 //                {

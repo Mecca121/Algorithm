@@ -12,3 +12,4 @@ C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\refi
 C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.pdb
 C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.genruntimeconfig.cache
 C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\ref\Agorithm.dll
+C:\Users\Providence Limited\source\repos\Agorithm\Agorithm\obj\Debug\net8.0\Agorithm.sourcelink.json
